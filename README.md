@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Revendra's Personal Page
+Currently, am working as Assistant Professor at Department of Management, BITS Pilani. I teach business analytics and finance courses to graduate (MBA) and undergraduate students at BITS Pilani.
 
-You can use the [editor on GitHub](https://github.com/revendrat/revendrat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### II-Semester (2021-22)
+* [Big Data Analytics](https://github.com/revendrat/Big-Data-Analytics)
+* Bayesian Analysis
+* Venture Finance
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Workshop R-Programming for Business Analytics
 
-### Markdown
+### I-Semester (2021-22)
+* [Programming for Analytics](https://github.com/revendrat/Programming-for-Analytics--MPBA-G507)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### II-Semester (2020-21)
+* Venture Team Development & Organisation
 
-```markdown
-Syntax highlighted code block
+### Non-Teaching Academic Activities
+* [Department of Management Website](https://dom.bits-pilani.ac.in/Web%20Team.html)
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
+* Tirumalsety, R., & Gurtoo, A. (2021). Financial sources, capital structure and performance of social enterprises: empirical evidence from India. Journal of Sustainable Finance & Investment, 11(1), 27-46.
+* Tirumalsety, R., & Gurtoo, A. (2019). Innovation Performance of Social Enterprises: An Empirical Study in India. Asian Journal of Innovation and Policy, 8(2), 238-273.
 
-- Bulleted
-- List
+### Past Position
+* Assistant Professor (Jan-2020 – Oct-2020)
+* ICFAI Business School (IBS) Hyderabad, An AACSB accredited business school
 
-1. Numbered
-2. List
+#### Courses taught
+* Graduate students: Financial Derivatives & Risk Management, Fintech
+* Under-graduate courses: Financial Derivatives & Risk Management, Financial Management, Global Business Project, and Taxation (Indirect taxes)
 
-**Bold** and _Italic_ and `Code` text
+#### Curriculum Design
+** Fintech for MBA stutdents
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/revendrat/revendrat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
