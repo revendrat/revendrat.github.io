@@ -21,6 +21,11 @@ Currently, am working as Assistant Professor at Department of Management, BITS P
 * Tirumalsety, R., & Gurtoo, A. (2021). Financial sources, capital structure and performance of social enterprises: empirical evidence from India. Journal of Sustainable Finance & Investment, 11(1), 27-46.
 * Tirumalsety, R., & Gurtoo, A. (2019). Innovation Performance of Social Enterprises: An Empirical Study in India. Asian Journal of Innovation and Policy, 8(2), 238-273.
 
+## Research Areas
+* Entrepreneurship & finance for social-environmental impact
+* Bayesian approaches in entrepreneurial & investment decision-making
+* Deep Learning in Financial Markets
+
 ### Past Position
 * Assistant Professor (Jan-2020 – Oct-2020)
 * ICFAI Business School (IBS) Hyderabad, An AACSB accredited business school
