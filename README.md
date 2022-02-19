@@ -6,7 +6,8 @@ Currently, am working as Assistant Professor at Department of Management, BITS P
 * Bayesian Analysis
 * Venture Finance (Minor in Entrepreneurship)
 
-### Workshop R-Programming for Business Analytics
+### Workshop (Summer break) 
+* R-Programming for Business Analytics
 
 ### I-Semester (2021-22)
 * [Programming for Analytics](https://github.com/revendrat/Programming-for-Analytics--MPBA-G507)
