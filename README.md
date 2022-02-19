@@ -4,7 +4,7 @@ Currently, am working as Assistant Professor at Department of Management, BITS P
 ### II-Semester (2021-22)
 * [Big Data Analytics](https://github.com/revendrat/Big-Data-Analytics)
 * Bayesian Analysis
-* Venture Finance
+* Venture Finance (Minor in Entrepreneurship)
 
 ### Workshop R-Programming for Business Analytics
 
@@ -12,7 +12,7 @@ Currently, am working as Assistant Professor at Department of Management, BITS P
 * [Programming for Analytics](https://github.com/revendrat/Programming-for-Analytics--MPBA-G507)
 
 ### II-Semester (2020-21)
-* Venture Team Development & Organisation
+* Venture Team Development & Organisation (Minor in Entrepreneurship)
 
 ## Publications
 * Tirumalsety, R., & Gurtoo, A. (2021). Financial sources, capital structure and performance of social enterprises: empirical evidence from India. Journal of Sustainable Finance & Investment, 11(1), 27-46.
@@ -21,7 +21,7 @@ Currently, am working as Assistant Professor at Department of Management, BITS P
 ## Research Areas
 * Entrepreneurship & finance for social-environmental impact
 * Bayesian approaches in entrepreneurial & investment decision-making
-* Deep Learning in Financial Markets
+* Deep Learning in financial markets
 
 ## Grants
 * "IP for Sustainability" funded by British Council (Co-PI)
