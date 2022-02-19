@@ -26,6 +26,9 @@ Currently, am working as Assistant Professor at Department of Management, BITS P
 * Bayesian approaches in entrepreneurial & investment decision-making
 * Deep Learning in Financial Markets
 
+## Grants
+* "IP for Sustainability" funded by British Council (Co-PI)
+
 ### Past Position
 * Assistant Professor (Jan-2020 – Oct-2020)
 * ICFAI Business School (IBS) Hyderabad, An AACSB accredited business school
@@ -35,5 +38,5 @@ Currently, am working as Assistant Professor at Department of Management, BITS P
 * Under-graduate courses: Financial Derivatives & Risk Management, Financial Management, Global Business Project, and Taxation (Indirect taxes)
 
 #### Curriculum Design
-** Fintech for MBA stutdents
+* Fintech for MBA stutdents
 
