@@ -1,5 +1,7 @@
 ## Welcome to Revendra's Personal Page
-Currently, am working as Assistant Professor at Department of Management, BITS Pilani. I teach business analytics and finance courses to graduate (MBA) and undergraduate students at BITS Pilani.
+I conduct empirical research on finance with a focus on sustainability investments.  I am a passionate educator to teach business analytics and finance courses to graduate (MBA) and undergraduate students, and empower them with required skills to shine at their jobs in data sciences.
+
+Here is my Youtube channel where I upload contents related to data sciences & finance: https://www.youtube.com/@revendrat
 
 ### II-Semester (2021-22)
 * [Big Data Analytics](https://github.com/revendrat/Big-Data-Analytics)
